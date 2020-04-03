@@ -6,7 +6,7 @@ They come in different formats like xdxf, bgl, and StarDict's .idx/,ifo etc. To 
 The glossaries are distributed under a Creative Commons 0 (1.0 Universal) License.
 Currently included here:
 
-* "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information on c.42,000 East Asian and some Indian Buddhists (in Chinese). I update this occasionally as the database evolves. 
+* "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information (in Chinese) on c.42,000 East Asian and some Indian Buddhists. I update this occasionally as the database evolves. 
 
 * "dppn.xdxf": Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources. First published in 1938, this was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
