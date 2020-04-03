@@ -3,7 +3,7 @@
 
 This repository provides glossaries for Buddhist Studies. I use them in [GoldenDict](http://goldendict.org) but other offline dictionary platforms like StarDict, AppleDict, Pleco, QuickDic, will be able to read some of them.
 They come in different formats like xdxf, bgl, and as stardict. To transform into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary). 
-The glossaries are distributed under a Creative Commons BY-NC-SA License.
+The glossaries are distributed under a Creative Commons 0 (1.0 Universal) License.
 The following glossaries are currently included here:
 
 * Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information on c.42,000 East Asian and some Indian Buddhists (in Chinese). I update this occasionally as the database evolves. 
@@ -19,4 +19,10 @@ The following glossaries are currently included here:
 
 April 2020 - now
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The "CB HSNA dataset" is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<p xmlns:dct="http://purl.org/dc/terms/">
+ <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"> <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a> To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>
