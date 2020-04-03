@@ -8,7 +8,7 @@ The following glossaries are currently included here:
 
 * "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information on c.42,000 East Asian and some Indian Buddhists (in Chinese). I update this occasionally as the database evolves. 
 
-* Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,300 person and place names from Pāli sources. First published in 1938, this was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
+* "dppn.xdxf": Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources. First published in 1938, this was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
 * A large number of Sanskrit dictionaries in XDXF have been produced by [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html#Dictionaries).
 
