@@ -14,7 +14,7 @@ Currently included here:
 ## Maintained elsewhere:
 * A large number of Sanskrit dictionaries in XDXF have been produced by [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html#Dictionaries).
 
-* Dharma Drum maintains a website with [Buddhist glossaries for download](http://buddhistinformatics.dila.edu.tw/glossaries/download.php) or [online lookup](http://glossaries.dila.edu.tw/). 
+* Dharma Drum maintains a website with Buddhist glossaries [for download](http://buddhistinformatics.dila.edu.tw/glossaries/download.php) or [online lookup](http://glossaries.dila.edu.tw/). 
 
  
 [Marcus Bingenheimer](https://mbingenheimer.net/publications/publications.html)
