@@ -1,15 +1,17 @@
 # Glossaries for Buddhist Studies
 
 
-This repository provides glossaries for Buddhist Studies. I use them in [GoldenDict](http://goldendict.org) but other offline dictionary platforms like StarDict, AppleDict, Pleco, QuickDic, will be able to read some of them.
-They come in different formats like xdxf, bgl, and as stardict. To transform into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary). 
+This repository provides glossaries for Buddhist Studies. I use them in [GoldenDict](http://goldendict.org), but other offline dictionary platforms like StarDict, AppleDict, Pleco, QuickDic, will be able to read some of them.
+They come in different formats like xdxf, bgl, and StarDict's .idx/,ifo etc. To transform into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary).
 The glossaries are distributed under a Creative Commons 0 (1.0 Universal) License.
-The following glossaries are currently included here:
+Currently included here:
 
 * "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information on c.42,000 East Asian and some Indian Buddhists (in Chinese). I update this occasionally as the database evolves. 
 
 * "dppn.xdxf": Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources. First published in 1938, this was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
+
+## Maintained elsewhere:
 * A large number of Sanskrit dictionaries in XDXF have been produced by [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html#Dictionaries).
 
 * Dharma Drum maintains a website with [Buddhist glossaries for download](http://buddhistinformatics.dila.edu.tw/glossaries/download.php) or [online lookup](http://glossaries.dila.edu.tw/). 
