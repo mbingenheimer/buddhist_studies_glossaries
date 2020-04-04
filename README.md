@@ -2,8 +2,8 @@
 
 
 This repository provides glossaries for Buddhist Studies. I use them in [GoldenDict](http://goldendict.org), but other offline dictionary platforms like StarDict, AppleDict, Pleco, QuickDic, will be able to read some of them.
-They come in different formats like xdxf, bgl, and StarDict's .idx/,ifo etc. To transform into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary).
-The glossaries are distributed under a Creative Commons 0 (1.0 Universal) License.
+They come in different formats like xdxf, bgl, and StarDict's .idx/,ifo etc. (To convert into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary)).
+The glossaries here are distributed under a Creative Commons 0 (1.0 Universal) License.
 Currently included here:
 
 * "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information (in Chinese) on c.42,000 East Asian and some Indian Buddhists. I update this occasionally as the database evolves. 
