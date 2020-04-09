@@ -8,8 +8,9 @@ Currently included here:
 
 * "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information (in Chinese) on c.42,000 East Asian and some Indian Buddhists. I update this occasionally as the database evolves. 
 
-* "dppn_suttacentral.xdxf": Based on material from Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources. This glossary was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
+* "dppn_suttacentral.xdxf": Based on material from Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources (only about 15% of Malalasekera). This glossary was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
+* "Yokoyama1996瑜伽师地论汉藏梵索引.gls": Converted from .mdx source found on the Net. Print original: Koitsu YOKOYAMA, Takayuki HIROSAWA: Index to the Yogācārabhūmi. Tokyo: Sankibo, 1996.
 
 ## Maintained elsewhere:
 * Crucial Chinese lookup tools (Unihan, CC-Cedict, Kangxi etc.) and Edgerton's Buddhist Hybrid Sanskrit Dictionary expertly rendered and maintained by Simon Wiles [here](https://simonwiles.net/glossaries/).
