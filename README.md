@@ -10,7 +10,7 @@ Currently included here:
 
 * "dppn_suttacentral.xdxf": Based on material from Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources (only about 15% of Malalasekera). This glossary was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
-* "Yokoyama1996瑜伽师地论汉藏梵索引.gls": Converted from .mdx source found on the Net. Print original: Koitsu YOKOYAMA, Takayuki HIROSAWA: Index to the Yogācārabhūmi. Tokyo: Sankibo, 1996.
+* "Yokoyama1996瑜伽师地论汉藏梵索引.gls": Sanskrit-Chinese-Tibetan glossary from the Index. Converted from a .mdx version found on the Net. Print original: Koitsu YOKOYAMA, Takayuki HIROSAWA: Index to the Yogācārabhūmi. Tokyo: Sankibo, 1996. Chinese is in 簡體字. References to actual passages not preserved. To locate a term in the Yogācārabhūmi try the [Yogācārabhūmi Database](http://ybh.chibs.edu.tw/ui.html).
 
 ## Maintained elsewhere:
 * Crucial Chinese lookup tools (Unihan, CC-Cedict, Kangxi etc.) and Edgerton's Buddhist Hybrid Sanskrit Dictionary expertly rendered and maintained by Simon Wiles [here](https://simonwiles.net/glossaries/).
