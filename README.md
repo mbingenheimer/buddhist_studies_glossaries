@@ -5,7 +5,7 @@ This repository provides glossaries for Buddhist Studies that were produced for 
 They come in different formats like xdxf, bgl, gls and StarDict's .idx/.ifo etc. (To convert into other formats I recommend [pyglossary](https://github.com/ilius/pyglossary)). Mostly these are rough conversions from open datasets that I found on the net. To the best of my knowledge none of the original datasets are copyrighted. The glossaries in the version made available here are distributed under a Creative Commons 0 (1.0 Universal) License.
 Currently included here:
 
-* "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information (in Chinese) on c.43,000 East Asian and some Indian Buddhists. I update this occasionally as the database evolves. 
+* "DILA_persAuthority20XX-XX.dict.xdxf.zip": Dictionary version of the Dharma Drum [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Contains information (in Chinese) on c.47,000 East Asian and some Indian Buddhists. I update this occasionally as the database evolves. 
 
 * "dppn_suttacentral.xdxf": Based on material from Malalasekera's Dictionary of Pāli Proper Names. Entries on c. 1,360 person and place names from Pāli sources (only about 15% of Malalasekera). This glossary was created from data retrieved March 2020 from the [SuttaCentral repository](https://github.com/suttacentral/sc-data/tree/master/dictionaries/en). The file distributed by SuttaCentral added information by geo-referencing places, and classes (person, place, thing).
 
